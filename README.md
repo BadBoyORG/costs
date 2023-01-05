@@ -1,6 +1,6 @@
 <img src='https://user-images.githubusercontent.com/101475826/210674765-04fd37df-f8dd-48fe-80a9-559cd71bbd35.png'>
 
-<h2 align='center'><a href='https://badboyorg.github.io/beautysalon/'>See the website</a></h2>
+<h2 align='center'><a href='https://costs-pmdsqnwbp-badboyorg.vercel.app'>See the website</a></h2>
 
 ## 📒 About
 
